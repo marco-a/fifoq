@@ -5,7 +5,7 @@
  *	@discussion
  *	Simple FIFO queue.
  *
- *	Copyright 2014 ProFusion. All rights reserved.
+ *	Copyright 2014 ProFusion. All rights reserved.t
  */
 
 #if !defined(_fifoq_h)
